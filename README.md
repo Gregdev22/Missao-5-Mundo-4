@@ -59,22 +59,20 @@
 
 :triangular_flag_on_post: Misão Prática 
 
-<h5>Configuração e Acesso ao Banco de Dados</h5>
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-4/blob/main/LogiMoveTransportes/mp1.png"  width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-4/blob/main/LogiMoveTransportes/mp2.png"  width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-4/blob/main/LogiMoveTransportes/mp3.png"  width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-5-Mundo-4/blob/main/Miss%C3%A3oPratica/mp1.png"  width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-5-Mundo-4/blob/main/Miss%C3%A3oPratica/mp2.png"  width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-5-Mundo-4/blob/main/Miss%C3%A3oPratica/mp3.png"  width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-5-Mundo-4/blob/main/Miss%C3%A3oPratica/mp4.png"  width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-5-Mundo-4/blob/main/Miss%C3%A3oPratica/mp5.png"  width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-5-Mundo-4/blob/main/Miss%C3%A3oPratica/mp6.png"  width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-5-Mundo-4/blob/main/Miss%C3%A3oPratica/mp7.png"  width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-5-Mundo-4/blob/main/Miss%C3%A3oPratica/mp8.png"  width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-5-Mundo-4/blob/main/Miss%C3%A3oPratica/mp9.png"  width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-5-Mundo-4/blob/main/Miss%C3%A3oPratica/mp10.png"  width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-5-Mundo-4/blob/main/Miss%C3%A3oPratica/mp11.png"  width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-5-Mundo-4/blob/main/Miss%C3%A3oPratica/mp12.png"  width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-5-Mundo-4/blob/main/Miss%C3%A3oPratica/mp13.png"  width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-5-Mundo-4/blob/main/Miss%C3%A3oPratica/mp14.png"  width="640" height="360">
 
-<h5>Criação e Estruturação das Tabelas</h5>
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-4/blob/main/LogiMoveTransportes/mp4.png"  width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-4/blob/main/LogiMoveTransportes/mp5.png"  width="640" height="360">
-
-<h5>Inserção e Gestão de Dados</h5>
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-4/blob/main/LogiMoveTransportes/mp6.png"  width="640" height="360">
-
-<h5>Execução e Validação de Consultas + Operações CRUD Eficientes </h5>
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-4/blob/main/LogiMoveTransportes/mp7.png"  width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-4/blob/main/LogiMoveTransportes/mp8.png"  width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-4/blob/main/LogiMoveTransportes/mp9.png"  width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-4/blob/main/LogiMoveTransportes/mp10.png"  width="640" height="360">
 
 <br>
